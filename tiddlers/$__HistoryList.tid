@@ -1,0 +1,22 @@
+created: 20191205164601314
+current-tiddler: $:/ControlPanel
+modified: 20191205164615441
+title: $:/HistoryList
+type: application/json
+
+[
+    {
+        "title": "GettingStarted"
+    },
+    {
+        "title": "$:/ControlPanel",
+        "fromPageRect": {
+            "top": 515.816650390625,
+            "left": 139,
+            "width": 93,
+            "right": 232,
+            "bottom": 532.816650390625,
+            "height": 17
+        }
+    }
+]
