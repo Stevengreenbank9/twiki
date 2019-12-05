@@ -1,6 +1,6 @@
 created: 20191205164601314
-current-tiddler: $:/ControlPanel
-modified: 20191205164615441
+current-tiddler: $:/Import
+modified: 20191205165600861
 title: $:/HistoryList
 type: application/json
 
@@ -18,5 +18,31 @@ type: application/json
             "bottom": 532.816650390625,
             "height": 17
         }
+    },
+    {
+        "title": "GettingStarted"
+    },
+    {
+        "title": "Draft of 'New Tiddler'"
+    },
+    {
+        "title": "Draft of 'New Tiddler'"
+    },
+    {
+        "title": "$:/ControlPanel",
+        "fromPageRect": {
+            "top": 144.48333740234375,
+            "left": 1009.3333129882812,
+            "width": 21,
+            "right": 1030.3333129882812,
+            "bottom": 169.68333435058594,
+            "height": 25.199996948242188
+        }
+    },
+    {
+        "title": "$:/Import"
+    },
+    {
+        "title": "$:/Import"
     }
 ]
